@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/danie/source/repos/ZombieApocalypse/ZombieApocalypse/Content/backgorund.png</File>
+    <File>C:/Users/danie/source/repos/ZombieApocalypse/ZombieApocalypse/Content/BoxSprite.png</File>
+    <File>C:/Users/danie/source/repos/ZombieApocalypse/ZombieApocalypse/Content/btn1.png</File>
+    <File>C:/Users/danie/source/repos/ZombieApocalypse/ZombieApocalypse/Content/btn2.png</File>
+    <File>C:/Users/danie/source/repos/ZombieApocalypse/ZombieApocalypse/Content/btn3.png</File>
+    <File>C:/Users/danie/source/repos/ZombieApocalypse/ZombieApocalypse/Content/bullet.png</File>
+    <File>C:/Users/danie/source/repos/ZombieApocalypse/ZombieApocalypse/Content/bulletAbox.png</File>
+    <File>C:/Users/danie/source/repos/ZombieApocalypse/ZombieApocalypse/Content/bulletBbox.png</File>
+    <File>C:/Users/danie/source/repos/ZombieApocalypse/ZombieApocalypse/Content/bulletCbox.png</File>
+    <File>C:/Users/danie/source/repos/ZombieApocalypse/ZombieApocalypse/Content/galleryFont.spritefont</File>
+    <File>C:/Users/danie/source/repos/ZombieApocalypse/ZombieApocalypse/Content/gunbox.png</File>
+    <File>C:/Users/danie/source/repos/ZombieApocalypse/ZombieApocalypse/Content/gunPNG.png</File>
+    <File>C:/Users/danie/source/repos/ZombieApocalypse/ZombieApocalypse/Content/MenuFrame.png</File>
+    <File>C:/Users/danie/source/repos/ZombieApocalypse/ZombieApocalypse/Content/player.png</File>
+    <File>C:/Users/danie/source/repos/ZombieApocalypse/ZombieApocalypse/Content/rifflebox.png</File>
+    <File>C:/Users/danie/source/repos/ZombieApocalypse/ZombieApocalypse/Content/shotgunbox.png</File>
+    <File>C:/Users/danie/source/repos/ZombieApocalypse/ZombieApocalypse/Content/ui.png</File>
+    <File>C:/Users/danie/source/repos/ZombieApocalypse/ZombieApocalypse/Content/zombie.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

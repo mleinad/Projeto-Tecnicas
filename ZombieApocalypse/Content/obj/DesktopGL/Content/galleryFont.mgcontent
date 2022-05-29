@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/danie/source/repos/ZombieApocalypse/ZombieApocalypse/Content/galleryFont.spritefont</SourceFile>
+  <SourceTime>2017-11-18T14:07:30+00:00</SourceTime>
+  <DestFile>C:/Users/danie/source/repos/ZombieApocalypse/ZombieApocalypse/Content/bin/DesktopGL/Content/galleryFont.xnb</DestFile>
+  <DestTime>2022-05-29T19:59:10.5553971+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2020-08-10T17:17:54+01:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2020-08-10T17:17:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
