@@ -12,4 +12,4 @@ Armas:  (podem ser adquiridas na loja)
 Movimiento: A W S D;
 Mirar/olhar: Rato;
 Disparar: left click;
-Correr: shit;
+Correr: shift;
